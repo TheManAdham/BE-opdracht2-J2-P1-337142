@@ -8,7 +8,9 @@
     <title>Document</title>
 </head>
 <body>
+    
     <h3><?= $data['title']; ?></h3>
+
     <a href="<?= URLROOT; ?>/Instructeur/overzichtinstructeur">Instructeurs in dienst</a> 
 </body>
 </html>
